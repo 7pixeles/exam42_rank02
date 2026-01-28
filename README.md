@@ -15,44 +15,6 @@ The repository is organized as follows:
 * ...
   *(Each folder contains the corresponding code and an internal comment explaining the logic.)*
 
----
-
-## How to use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/7pixeles/exam42_rank02.git
-   ```
-2. Enter the folder of the exercise you want to review:
-
-   ```bash
-   cd ex00
-   ```
-3. Check the code and comments to understand the solution for each exercise.
-
----
-
-## Notes
-
-* All exercises have been solved following **Campus 42** standards and good practices.
-* This repository is intended for **educational and practice purposes only**, not as a replacement for official exams.
-
----
-
-## Author
-
-* **Ayua Carreño** – [GitHub Profile](https://github.com/7pixeles)
-
----
-
-## Badges
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/repository-name)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/repository-name)
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/repository-name)
-
----
 
 ## LEVEL 00 Summary
 
@@ -100,3 +62,39 @@ The repository is organized as follows:
 
 
 *(I will update this table with more exercises as soon as I complete them.)*
+
+
+## How to use
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/7pixeles/exam42_rank02.git
+   ```
+2. Enter the folder of the exercise you want to review:
+
+   ```bash
+   cd ex00
+   ```
+3. Check the code and comments to understand the solution for each exercise.
+
+---
+
+## Notes
+
+* All exercises have been solved following **Campus 42** standards and good practices.
+* This repository is intended for **educational and practice purposes only**, not as a replacement for official exams.
+
+---
+
+## Author
+
+* **Ayua Carreño** – [GitHub Profile](https://github.com/7pixeles)
+
+---
+
+## Badges
+
+![GitHub last commit](https://img.shields.io/github/last-commit/7pixeles/exam42_rank02)
+![GitHub repo size](https://img.shields.io/github/repo-size/7pixeles/exam42_rank02)
+![GitHub top language](https://img.shields.io/github/languages/top/7pixeles/exam42_rank02)
