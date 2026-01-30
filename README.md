@@ -38,26 +38,24 @@ The repository is organized as follows:
 
 | Exercise | Description                          |
 | -------- | ------------------------------------ |
-| [alpha_mirror]()     | Replace letters with their alphabetical mirror|
-| [camel_to_snake]()     | Convert CamelCase strings to snake_case|
-| [do_op]()     | Perform basic arithmetic operations|
-| [*ft_atoi]()     | Convert a string to an integer|
-| [*ft_strcmp]()     | Compare two strings|
-| [ft_strcspn]()     | Compute the length of initial segment not containing specified characters|
-| [ft_strspn]()     | Compute the length of initial segment containing only specified characters|
-| [*ft_strdup]()     | Duplicate a string|
-| [ft_strpbrk]()     | Search a string for any of a set of characters|
-| [ft_strrev]()     | Reverse a string|
-| [inter]()     | Print common characters between two strings|
-| [last_word]()     | Print the last word of a string|
-| [ft_is_power_2]()     | Check if a number is a power of 2|
-| [max]()     | Return the maximum of given numbers|
-| [print_bits]()     | Print the binary representation of a number|
-| [reverse_bits]()     | Reverse bits of an integer|
-| [wdmatch]()     | Match characters of one string in another|
-| [swap_bits]()     | Swap bits at given positions|
-| [union]()     | Print union of characters from two strings|
-| [snake_to_camel]()     | Convert snake_case strings to CamelCase |
+| [alpha_mirror](https://github.com/7pixeles/exam42_rank02/tree/main/level01/alpha_mirror)     | Replace letters with their alphabetical mirror|
+| [camel_to_snake](https://github.com/7pixeles/exam42_rank02/tree/main/level01/camel_to_snake)     | Convert CamelCase strings to snake_case|
+| [do_op](https://github.com/7pixeles/exam42_rank02/tree/main/level01/do_op)     | Perform basic arithmetic operations|
+| [*ft_atoi](https://github.com/7pixeles/exam42_rank02/tree/main/level01/ft_atoi)     | Convert a string to an integer|
+| [*ft_strcmp](https://github.com/7pixeles/exam42_rank02/tree/main/level01/ft_strcmp)     | Compare two strings|
+| [ft_strcspn](https://github.com/7pixeles/exam42_rank02/tree/main/level01/ft_strcspn)     | Compute the length of initial segment not containing specified characters|
+| [*ft_strdup](https://github.com/7pixeles/exam42_rank02/tree/main/level01/ft_strdup)     | Duplicate a string|
+| [ft_strrev](https://github.com/7pixeles/exam42_rank02/tree/main/level01/ft_strrev)     | Reverse a string|
+| [inter](https://github.com/7pixeles/exam42_rank02/tree/main/level01/inter)     | Print common characters between two strings|
+| [is_power_of_2](https://github.com/7pixeles/exam42_rank02/tree/main/level01/is_power_of_2)     | Check if a number is a power of 2|
+| [last_word](https://github.com/7pixeles/exam42_rank02/tree/main/level01/last_word)     | Print the last word of a string|
+| [max](https://github.com/7pixeles/exam42_rank02/tree/main/level01/max)     | Return the maximum of given numbers|
+| [print_bits](https://github.com/7pixeles/exam42_rank02/tree/main/level01/print_bits)     | Print the binary representation of a number|
+| [reverse_bits](https://github.com/7pixeles/exam42_rank02/tree/main/level01/reverse_bits)     | Reverse bits of an integer|
+| [snake_to_camel](https://github.com/7pixeles/exam42_rank02/tree/main/level01/snake_to_camel)     | Convert snake_case strings to CamelCase |
+| [swap_bits](https://github.com/7pixeles/exam42_rank02/tree/main/level01/swap_bits)     | Swap bits at given positions|
+| [union](https://github.com/7pixeles/exam42_rank02/tree/main/level01/union)     | Print union of characters from two strings|
+| [wdmatch](https://github.com/7pixeles/exam42_rank02/tree/main/level01/wdmatch)     | Match characters of one string in another|
 |       |                                   |
 
 
